@@ -1,61 +1,60 @@
+# 🚀 Phase 0: Getting Started & Introduction
+
+Before we write our first line of AI-focused Python, we must understand the "Why" and set up a professional developer environment.
+
+---
+
+## 💡 1. Intro to Programming
+Programming is the art of giving precise instructions to a computer. In the context of AI:
+* **Traditional Programming:** You write the rules (If/Else) + Input = Output.
+* **AI/Machine Learning:** You provide Input + Output = The Machine learns the Rules.
+Python is the chosen language for this because of its massive library support and readability.
+
+
+
+---
+
+## 🛠️ 2. Professional Environment Setup
+A "Tutor" doesn't just code in a notepad. We use a professional stack:
+
+### **Step 1: Python Installation**
+* Download the latest version from [python.org](https://www.python.org/).
+* **CRITICAL:** During installation, check the box that says **"Add Python to PATH"**.
+
+### **Step 2: The Code Editor (VS Code)**
+We use **Visual Studio Code** for its powerful AI extensions.
+1. Install [VS Code](https://code.visualstudio.com/).
+2. Install the **Python Extension** (by Microsoft).
+3. Install the **Jupyter Extension** (for interactive data analysis).
+
+### **Step 3: Interactive Python Mode**
+We avoid running full scripts for every change. Instead, use **Interactive Mode**:
+* Open a `.py` file.
+* Highlight a block of code.
+* Press `Shift + Enter`.
+This creates a side-by-side console to see your variables instantly.
+
+
+
+---
+
+## 🚦 3. Python Syntax & Errors (The Rules)
+Every language has grammar. In Python, we call this **Syntax**.
+* **Indentation:** Spaces are part of the code. A missing space is a broken program.
+* **Case Sensitivity:** `Model` is not the same as `model`.
+* **Errors:** Don't fear them!
+    * *SyntaxError:* You forgot a colon or quote.
+    * *TypeError:* You tried to add a word to a number.
+    * *LogicError:* The code runs, but the math is wrong.
+
+---
+
+## ✅ Checklist Before Day 01
+- [ ] Python 3.x installed and added to PATH.
+- [ ] VS Code installed with Python Extension.
+- [ ] Successfully ran `print("Hello AI World")` using `Shift + Enter`.
+
+---
 
 # 🗓️ Day 01: Python Basics & AI Foundations
-
-Welcome to the first module of the **Python for AI in 5 Days** bootcamp. Today, we move from the theory of programming to mastering the essential building blocks that allow AI models to process information.
-
----
-
-## 🎯 Learning Objectives
-By the end of today, you will be able to:
-* Navigate Python syntax and handle common errors.
-* Manage data using Variables and appropriate Data Types.
-* Perform mathematical and logical operations.
-* Work with Python's core Data Structures (Lists, Dictionaries, Tuples, and Sets).
-
----
-
-## 📖 Module Curriculum
-
-### 1. Getting Started
-* **Intro to Programming:** Understanding instructions for machines.
-* **Python Syntax:** Writing clean, readable code.
-* **Python Errors:** Identifying and fixing syntax vs. logic errors.
-* **Code Formatting:** Following PEP 8 standards for professional code.
-
-### 2. The Building Blocks
-* **Variables:** Creating labels for your data (Features and Labels).
-* **Comments:** Documenting your AI logic for others to read.
-* **Data Types:** * **Numbers:** Integers and Floats for model weights.
-    * **Strings:** Foundations for NLP (Natural Language Processing).
-    * **Booleans:** True/False logic for decision trees.
-
-### 3. Working with Data
-* **Operators:** Mathematical calculations and comparisons.
-* **String Manipulation:** Cleaning text data (Slicing, Concatenation, and F-Strings).
-
-### 4. Control Flow & Logic
-* **If Statements:** Conditional logic for AI decision making.
-* **Loops:** Automating repetitive tasks across datasets.
-
-### 5. Data Structures (The AI Essentials)
-* **Lists:** Ordered sequences of data.
-* **Dictionaries:** Key-Value pairs for structured metadata.
-* **Tuples & Sets:** Unique and immutable data collections.
-
----
-
-## 🛠️ Lab: Hands-on Practice
-Open the `day_01_foundations.ipynb` notebook in this folder to begin. 
-
-**Today's Challenge:** Build a simple **Data Validator** that takes a list of mixed inputs, cleans the strings, and calculates the average of the numerical values while ignoring "noisy" data.
-
----
-
-## 👨‍🏫 Tutor's Corner: Pro Tips
-1. **Interactive Mode:** Always use `Shift + Enter` in VS Code to test your logic instantly.
-2. **Naming Matters:** In AI pipelines, use descriptive variable names like `training_loss` instead of `x`.
-3. **Zero-Index:** Remember, Python starts counting at `0`. This is crucial when we start slicing data arrays tomorrow!
-
----
-
-[Back to Main Syllabus](../README.md)
+*(Paste your Day 1 content here...)*
