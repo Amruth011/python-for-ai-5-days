@@ -185,4 +185,4 @@ Open the `Day_02_Logic/modular_analyst.ipynb` notebook.
 *B.Tech in Artificial Intelligence & Data Science*
 Focusing on bridging the gap between raw code and intelligent systems.
 
-[Portfolio](https://amruth-kumar-portfolio.lovable.app/) | [LinkedIn](https://www.linkedin.com/in/amruthkumarm/) | [GitHub](https://github.com/Amruth011)
+[Portfolio](https://amruthportfolio.me/) | [LinkedIn](https://www.linkedin.com/in/amruthkumarm/) | [GitHub](https://github.com/Amruth011)
